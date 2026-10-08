@@ -6,7 +6,9 @@ TOKEN = "*******"
 bot = telebot.TeleBot(TOKEN)
 
 # آدرس کیف‌پول برای پرداخت اشتراک VIP (آدرس تتر خودت رو جایگزین کن)
-USDT_TRC20_WALLET = "YOUR_USDT_TRC20_WALLET_ADDRESS_HERE"
+USDT_TRC20_WALLET = "YOUR_USDT_TRC20_WALLET_ADDRESS_HERE"MY_WALLET = "0xf104a07d8a87f4aa98ea28baf19d727a00666fd1"
+MY_WALLET = "0xf104a07d8a87f4aa98ea28baf19d727a00666fd1"
+
 
 def get_crypto_prices():
     try:
